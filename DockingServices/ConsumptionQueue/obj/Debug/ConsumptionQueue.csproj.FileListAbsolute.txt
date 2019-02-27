@@ -1,0 +1,134 @@
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\ConsumptionQueue\bin\Debug\HttpModel.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\ConsumptionQueue\bin\Debug\System.Net.Http.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\ConsumptionQueue\bin\Debug\HttpModel.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\ConsumptionQueue\bin\Debug\System.Net.Http.xml
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\ConsumptionQueue\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\ConsumptionQueue\bin\Debug\SharpCompress.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\ConsumptionQueue\bin\Debug\HttpModel.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\ConsumptionQueue\bin\Debug\System.Net.Http.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\ConsumptionQueue\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\ConsumptionQueue\bin\Debug\SharpCompress.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\ConsumptionQueue\bin\Debug\HttpModel.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\ConsumptionQueue\bin\Debug\System.Net.Http.xml
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\ConsumptionQueue\bin\Debug\HttpModel.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\ConsumptionQueue\bin\Debug\System.Net.Http.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\ConsumptionQueue\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\ConsumptionQueue\bin\Debug\SharpCompress.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\ConsumptionQueue\bin\Debug\HttpModel.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\ConsumptionQueue\bin\Debug\System.Net.Http.xml
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\ConsumptionQueue\bin\Debug\HttpModel.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\ConsumptionQueue\bin\Debug\System.Net.Http.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\ConsumptionQueue\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\ConsumptionQueue\bin\Debug\SharpCompress.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\ConsumptionQueue\bin\Debug\HttpModel.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\ConsumptionQueue\bin\Debug\System.Net.Http.xml
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\ConsumptionQueue\bin\Debug\HttpModel.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\ConsumptionQueue\bin\Debug\System.Net.Http.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\ConsumptionQueue\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\ConsumptionQueue\bin\Debug\SharpCompress.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\ConsumptionQueue\bin\Debug\HttpModel.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\ConsumptionQueue\bin\Debug\System.Net.Http.xml
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+D:\曲刚交接\安徽对接\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+D:\曲刚交接\安徽对接\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+D:\曲刚交接\安徽对接\trunk\ConsumptionQueue\bin\Debug\HttpModel.dll
+D:\曲刚交接\安徽对接\trunk\ConsumptionQueue\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\曲刚交接\安徽对接\trunk\ConsumptionQueue\bin\Debug\SharpCompress.dll
+D:\曲刚交接\安徽对接\trunk\ConsumptionQueue\bin\Debug\HttpModel.pdb
+D:\曲刚交接\安徽对接\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.csprojResolveAssemblyReference.cache
+D:\曲刚交接\安徽对接\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+D:\曲刚交接\安徽对接\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+E:\GitHub\重庆江津\江津对接\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+E:\GitHub\重庆江津\江津对接\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+E:\GitHub\重庆江津\江津对接\trunk\ConsumptionQueue\bin\Debug\HttpModel.dll
+E:\GitHub\重庆江津\江津对接\trunk\ConsumptionQueue\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\GitHub\重庆江津\江津对接\trunk\ConsumptionQueue\bin\Debug\SharpCompress.dll
+E:\GitHub\重庆江津\江津对接\trunk\ConsumptionQueue\bin\Debug\HttpModel.pdb
+E:\GitHub\重庆江津\江津对接\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.csprojResolveAssemblyReference.cache
+E:\GitHub\重庆江津\江津对接\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+E:\GitHub\重庆江津\江津对接\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\ConsumptionQueue\bin\Debug\HttpModel.dll
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\ConsumptionQueue\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\ConsumptionQueue\bin\Debug\SharpCompress.dll
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\ConsumptionQueue\bin\Debug\HttpModel.pdb
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.csprojResolveAssemblyReference.cache
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\ConsumptionQueue\bin\Debug\HttpModel.dll
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\ConsumptionQueue\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\ConsumptionQueue\bin\Debug\SharpCompress.dll
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\ConsumptionQueue\bin\Debug\HttpModel.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.csprojResolveAssemblyReference.cache
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江津\江津最新程序\江津对接重写版\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+D:\ProjectDoc\对接软件\MatchPlatform\江津\江津最新程序\江津对接重写版\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江津\江津最新程序\江津对接重写版\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+D:\ProjectDoc\对接软件\MatchPlatform\江津\江津最新程序\江津对接重写版\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江津\江津最新程序_old\江津对接重写版\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+D:\ProjectDoc\对接软件\MatchPlatform\江津\江津最新程序_old\江津对接重写版\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江津\江津最新程序_old\江津对接重写版\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.csprojResolveAssemblyReference.cache
+D:\ProjectDoc\对接软件\MatchPlatform\江津\江津最新程序_old\江津对接重写版\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+D:\ProjectDoc\对接软件\MatchPlatform\江津\江津最新程序_old\江津对接重写版\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+D:\GitHub\重庆江津\DockingRewrite1\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+D:\GitHub\重庆江津\DockingRewrite1\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+D:\GitHub\重庆江津\DockingRewrite1\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.csproj.CoreCompileInputs.cache
+D:\GitHub\重庆江津\DockingRewrite1\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+D:\GitHub\重庆江津\DockingRewrite1\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+D:\GitHub\重庆江津\DockingRewrite\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+D:\GitHub\重庆江津\DockingRewrite\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+D:\GitHub\重庆江津\DockingRewrite\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.csproj.CoreCompileInputs.cache
+D:\GitHub\重庆江津\DockingRewrite\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+D:\GitHub\重庆江津\DockingRewrite\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+D:\GitHub\重庆江津\DockingRewrite\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.csprojAssemblyReference.cache
+E:\GitHub\重庆江津\DockingRewrite\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+E:\GitHub\重庆江津\DockingRewrite\trunk\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+E:\GitHub\重庆江津\DockingRewrite\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.csprojAssemblyReference.cache
+E:\GitHub\重庆江津\DockingRewrite\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.csproj.CoreCompileInputs.cache
+E:\GitHub\重庆江津\DockingRewrite\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+E:\GitHub\重庆江津\DockingRewrite\trunk\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+E:\GitHub\JiangsuNationStandardDockingPlatform\EmergencyBroadcastingDockingPlatform\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+E:\GitHub\JiangsuNationStandardDockingPlatform\EmergencyBroadcastingDockingPlatform\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+E:\GitHub\JiangsuNationStandardDockingPlatform\EmergencyBroadcastingDockingPlatform\ConsumptionQueue\obj\Debug\ConsumptionQueue.csproj.CoreCompileInputs.cache
+E:\GitHub\JiangsuNationStandardDockingPlatform\EmergencyBroadcastingDockingPlatform\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+E:\GitHub\JiangsuNationStandardDockingPlatform\EmergencyBroadcastingDockingPlatform\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+E:\GitHub\JiangsuNationStandardDockingPlatform\EmergencyBroadcastingDockingPlatform\ConsumptionQueue\obj\Debug\ConsumptionQueue.csprojAssemblyReference.cache
+E:\GitHub\对接服务兼容全版本\DockingServices\DockingPlatform\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+E:\GitHub\对接服务兼容全版本\DockingServices\DockingPlatform\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+E:\GitHub\对接服务兼容全版本\DockingServices\DockingPlatform\ConsumptionQueue\obj\Debug\ConsumptionQueue.csprojAssemblyReference.cache
+E:\GitHub\对接服务兼容全版本\DockingServices\DockingPlatform\ConsumptionQueue\obj\Debug\ConsumptionQueue.csproj.CoreCompileInputs.cache
+E:\GitHub\对接服务兼容全版本\DockingServices\DockingPlatform\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+E:\GitHub\对接服务兼容全版本\DockingServices\DockingPlatform\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb
+E:\GitHub\对接服务兼容全版本\DockingServices\DockingServices\ConsumptionQueue\bin\Debug\ConsumptionQueue.dll
+E:\GitHub\对接服务兼容全版本\DockingServices\DockingServices\ConsumptionQueue\bin\Debug\ConsumptionQueue.pdb
+E:\GitHub\对接服务兼容全版本\DockingServices\DockingServices\ConsumptionQueue\obj\Debug\ConsumptionQueue.csproj.CoreCompileInputs.cache
+E:\GitHub\对接服务兼容全版本\DockingServices\DockingServices\ConsumptionQueue\obj\Debug\ConsumptionQueue.dll
+E:\GitHub\对接服务兼容全版本\DockingServices\DockingServices\ConsumptionQueue\obj\Debug\ConsumptionQueue.pdb

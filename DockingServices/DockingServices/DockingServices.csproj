@@ -54,7 +54,7 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>bitbug_favicon.ico</ApplicationIcon>
+    <ApplicationIcon>favicon-20190227023407343.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Apache.NMS">
@@ -242,6 +242,7 @@
     </Compile>
     <Compile Include="Class\USBPSW.cs" />
     <Compile Include="Class\XmlSerialize.cs" />
+    <Compile Include="Protocal\NationalStandard.cs" />
     <Compile Include="SendTar\SendTarOrder.cs" />
     <EmbeddedResource Include="Form\AddPoliceItem.resx">
       <DependentUpon>AddPoliceItem.cs</DependentUpon>
@@ -315,6 +316,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="bitbug_favicon.ico" />
+    <Content Include="favicon-20190227023407343.ico" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.0">

@@ -184,12 +184,11 @@ namespace DockingServices
             {
                 InitializeComponent();
                 SetManager = new FullDelegate.SetTextDelete(SetText);
-               // SingletonInfo.GetInstance().serverini = new IniFiles(@Application.StartupPath + "\\Config.ini");
                 dtLinkTime = DateTime.Now.AddSeconds(-1 - OnOffLineInterval);
             }
             catch (Exception ex)
             {
-                //  MessageBox.Show(ex.Message + "PlayM");
+
             }
         }
 

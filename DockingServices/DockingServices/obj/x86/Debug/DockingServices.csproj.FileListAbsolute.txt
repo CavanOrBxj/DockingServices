@@ -72,3 +72,4 @@ E:\GitHub\对接服务兼容全版本\DockingServices\DockingServices\DockingSer
 E:\GitHub\对接服务兼容全版本\DockingServices\DockingServices\DockingServices\obj\x86\Debug\DockingServices.csproj.CopyComplete
 E:\GitHub\对接服务兼容全版本\DockingServices\DockingServices\DockingServices\obj\x86\Debug\DockingServices.exe
 E:\GitHub\对接服务兼容全版本\DockingServices\DockingServices\DockingServices\obj\x86\Debug\DockingServices.pdb
+E:\GitHub\对接服务兼容全版本\DockingServices\DockingServices\DockingServices\obj\x86\Debug\DockingServices.csprojAssemblyReference.cache

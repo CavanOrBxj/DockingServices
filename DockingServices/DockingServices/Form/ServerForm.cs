@@ -36,6 +36,8 @@ namespace DockingServices
         Thread thTar = null;//解压回复线程
         Thread httpthread = null;//HTTP服务
 
+        Thread dealwithtar = null;//处理tar包线程
+
         Thread thFeedBack = null;//回复状态线程
 
         Thread ccplayerthread = null;//播放CCPLAY线程
@@ -311,6 +313,11 @@ namespace DockingServices
             httpthread.IsBackground = true;
             httpthread.Name = "HttpServer服务";
             httpthread.Start();
+            //=================
+            dealwithtar = new Thread(new ThreadStart(httpServer.listen));
+            dealwithtar.IsBackground = true;
+            dealwithtar.Name = "处理tar包线程";
+            dealwithtar.Start();
             //=================
             thTar = new Thread(DealTar);
             thTar.IsBackground = true;
